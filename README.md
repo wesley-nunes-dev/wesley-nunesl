@@ -19,8 +19,8 @@
 
 -   ### <a href="https://github.com/wesley-nunesl/API-Freight-Calculation">Freight Calculation API [2024].</a>  
     - **Back-End:** Java 17, SpringBoot, Maven, Hibernate, Padrões de projeto: Data transfer object (DTO), MVC Architecture e REST.
-    - **Banco de Dados:** H2 e PostgreSQL.
-    - **Documentação:** Swagger
+    - **Database:** H2 e PostgreSQL.
+    - **Documentation:** Swagger
 
 <br>
 
