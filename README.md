@@ -1,14 +1,8 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=30&pause=1000&color=3298E6&random=false&width=800&height=70&lines=Hello%2C+I%60m+Wesley+Nunes%2C+Backend+Developer+%E2%9A%94)](https://git.io/typing-svg)
-
-<br>
-
 ## About   
 
-🎓 I'm a passionate technology enthusiast with a solid background as a computer technician and currently pursuing a degree in Software Engineering. I entered the workforce during high school through an internship opportunity, starting from technical support and gradually transitioning into software development.
+🎓 I'm a computer technician and I'm currently in the 3rd semester of systems analysis and development. I'm in a career transition to backend development and I'm focused on achieving this goal through self-taught studies related to the area, personal projects and active participation in development groups.
 
-🚀 I'm eager to rejoin the job market, particularly seeking roles as a systems developer. I aim to apply my expertise and knowledge to significantly contribute to the success of any company I join. I strongly believe that my technical skills, coupled with my determination and eagerness to learn, make me an outstanding candidate for any available position.
+🚀 I have a leadership profile, proactivity, effective communication, careful analysis and assertive decisions. My background includes experience in customer service, financial administration and technical support.
 
 ## Connect with me
 
@@ -28,8 +22,6 @@
 
 ### Backend:
 ![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=coffeescript&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/nodejs-0D1117.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![dart](https://img.shields.io/badge/dart-0D1117.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks:
 ![Spring](https://img.shields.io/badge/spring-0D1117.svg?style=for-the-badge&logo=spring&logoColor=white)
