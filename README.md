@@ -1,6 +1,6 @@
 ## About   
 
-🎓 I'm a computer technician and I'm currently in the 3rd semester of systems analysis and development. I'm in a career transition to backend development and I'm focused on achieving this goal through self-taught studies related to the area, personal projects and active participation in development groups.
+🎓 I'm a computer technician and am currently studying systems analysis and development. I'm in a career transition to backend development and I'm focused on achieving this goal through self-taught studies related to the area, personal projects and active participation in development groups.
 
 🚀 I have a leadership profile, proactivity, effective communication, careful analysis and assertive decisions. My background includes experience in customer service, financial administration and technical support.
 
