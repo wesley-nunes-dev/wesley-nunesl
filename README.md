@@ -6,7 +6,7 @@
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-nunesl/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-nunes-dev/)
 [![Instragram](https://img.shields.io/badge/instagram-0D1117.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesleynunesl/)
 
 ## Project
@@ -46,12 +46,12 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wesley-nunesl&theme=ambient_gradient&bg_color=3298E6&border_color=3caacb&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&card_width=500)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wesley-nunes-dev&theme=ambient_gradient&bg_color=3298E6&border_color=3caacb&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&card_width=500)
 
 ## My Contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wesley-nunesl&theme=ocean-gradient&hide_border=true&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wesley-nunes-dev&theme=ocean-gradient&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 ## Most Used Language
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-nunesl&bg_color=3298E6&border_color=3caacb&icon_color=fff&title_color=fff&text_color=fff&card_width=500)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-nunes-dev&bg_color=3298E6&border_color=3caacb&icon_color=fff&title_color=fff&text_color=fff&card_width=500)
